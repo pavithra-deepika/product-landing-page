@@ -49,7 +49,7 @@ header {
     margin-top: 100px;
     text-align: center;
 }
-#email{
+#email{ 
     width: 100%;
     max-width: 250px;
     padding: 5px;
@@ -60,4 +60,29 @@ header {
     max-width: 120px;
     height: 28px;
     background-color: yellow;
+}
+.flex{
+    display: flex;
+    
+}
+#features {
+    margin-top: 70px;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    align-items: center;
+    height: 135px;
+    width: 100px;
+    margin-left: 17vw;
+    color: #ff8c00;
+}
+.content{
+display: flex;
+flex-direction: column;
+justify-content: center;
+height: 130px;
+width: 850px;
+margin-left: 3vw;
 }
