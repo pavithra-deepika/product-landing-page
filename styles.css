@@ -86,3 +86,16 @@ height: 130px;
 width: 850px;
 margin-left: 3vw;
 }
+.video{
+    display: flex;
+    justify-content: center;
+    height: 350px;
+    width: 550px;
+    margin: auto ; 
+}
+#how-it-works {
+    /* margin-top: 45px; */
+    /* margin-bottom: 50px; */
+    margin: auto;
+    padding: 15px;
+}
