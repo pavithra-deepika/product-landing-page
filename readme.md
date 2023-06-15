@@ -1,4 +1,4 @@
-<h1 align="center"> Register Form  </h1>
+<h1 align="center"> Product Landing page  </h1>
 
 ## Getting Started
 
@@ -10,26 +10,29 @@
 
 ## Application shots
 ![image1](https://github.com/pavithra-deepika/survey-form/blob/master/iamge/image%201.png)
-![image2](https://github.com/pavithra-deepika/survey-form/blob/master/iamge/iamge%202.png)
 
 ## Learnt
- - The input tag specifies an input field where the user can enter data.The input element is the most important form element.The input element can be displayed in several ways, depending on the type attribute.
- - The button tag defines a clickable button.
-- The textarea tag defines a multi-line text input control.The textarea element is often used in a form, to collect user inputs like comments or reviews.
--  The <input type="radio"> defines a radio button.Radio buttons are normally presented in radio groups (a collection of radio buttons describing a set of related options). Only one radio button in a group can be selected at the same time.
--  The <input type="checkbox"> defines a checkbox.The checkbox is shown as a square box that is ticked (checked) when activated.Checkboxes are used to let a user select one or more options of a limited number of choices.
-- <bold>CSS property </bold>
-    - border: 0 = border removed.
-    - margin : 0 auto = four side attanged in equall.
-    - "length" values, such as width, margin, padding, font-size, etc.
-    - Length is a number followed by a length unit, such as 10px, 2em, etc.
-- password field set to attribute pattern 
-    ex( pattern=[a-z0-5]{8,})
-- The select element is used to create a drop-down list. The select element is most often used in a form, to collect user input.The name attribute is needed to reference the form data after the form is submitted (if you omit the name attribute, no data from the drop-down list will be submitted).The id attribute is needed to associate the drop-down list with a label. 
-- The option tags inside the element define the available options in the drop-down list. 
+* header element - represented at the top of your HTML.
+* nav element -  It have set of navigation links within your header element.
+* To be able to navigate within the page, give each anchor element an href corresponding to the id of the h2 elements.
+    * href="#features"
+* iframe element - It's specifies an inline frame.An inline frame is used to embed another document within the current HTML document.
+* footer element - represented at the bottom of your webpage.
+* To start using the Flexbox model, you need to first define a flex container.
+    * display: flex;
+    * The flex container becomes flexible by setting the display property to flex.
+* flex-direction - defines in which direction the container wants to stack the flex items.
+    * flex-direction: column;
+    * column - The column value stacks the flex items vertically (from top to bottom).
+* list-style-type - specifies the type of list-item marker in a list.
+    * list-style-type: none;
+    * none - No marker is shown.
+* @media rule - It is used in media queries to apply different styles for different media types/devices.
+* scroll-behaviour -  specifies whether to smoothly animate the scroll position, instead of a straight jump, when the user clicks on a link within a scrollable box.
+    * scroll-behaviour: smooth;
+    * smooth - Allows a smooth animated "scroll effect" between elements within the scrolling box.
 
 ## Deploy on Vercel
-https://vercel.com/pavithra-deepika/survey-form
 
 ## Built by
 
