@@ -1,3 +1,4 @@
+
 <h1 align="center"> Product Landing page  </h1>
 
 ## Getting Started
@@ -9,7 +10,10 @@
 - Code Editor (like Visula Studio Code/ notepad)
 
 ## Application shots
-![image1](https://github.com/pavithra-deepika/survey-form/blob/master/iamge/image%201.png)
+![image1](https://github.com/pavithra-deepika/product-landing-page/blob/master/iamge/image1.png)
+![image2](https://github.com/pavithra-deepika/product-landing-page/blob/master/iamge/image2.png)
+![image3](https://github.com/pavithra-deepika/product-landing-page/blob/master/iamge/image3.png)
+
 
 ## Learnt
 * header element - represented at the top of your HTML.
