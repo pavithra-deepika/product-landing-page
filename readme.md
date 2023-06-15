@@ -37,6 +37,7 @@
     * smooth - Allows a smooth animated "scroll effect" between elements within the scrolling box.
 
 ## Deploy on Vercel
+https://vercel.com/pavithra-deepika/product-landing-page
 
 ## Built by
 
